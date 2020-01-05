@@ -1,0 +1,9 @@
+new times of generation:
+    not intcons 602.974999905 + 13978.162 s = 243 min = 4 hrs  3 mins
+    intcons 4449.6619999 s = 74 mins
+    cs 1927.249941 s = 32 mins
+new sizes:
+    not intcons 34 KB + 35 KB = 69 KB
+    intcons 36 KB + 37 KB = 73 KB
+    cs 20592697 KB = 20110 MB = 19.6 GB
+        in memory 68689794 KB = 67080 MB = 65.51 GB

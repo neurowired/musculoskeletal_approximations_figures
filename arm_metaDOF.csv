@@ -1,0 +1,19 @@
+idDOF,sDOF,nRangeMin,nRangeMax,nIC,sDescription,sDescShort
+1,ra_wr_s_p,-1.5708,1.5708,0,wrist rotation motion,Wrist Pro/Sup
+2,ra_wr_e_f,-1.2217,1.2217,0,wrist flexion/extension motion,Wrist F/E
+3,ra_cmc1_f_e,0,0.8727,0,thumb proximal  flexion/extension  motion,D1 CMC F/E
+4,ra_cmc1_ad_ab,0,0.8727,0,thumb proximal  abduction/adduction motion,D1 CMC Ab/Ad
+5,ra_mcp1_f_e,-0.7854,0,0,thumb central flexion/extension motion,D1 MCP
+6,ra_ip1_f_e,-1.5708,0,0,thumb distal flexion/extension motion,D1 IP
+7,ra_mcp2_e_f,0,1.5708,0,index proximal flexion/extension motion,D2 MCP
+8,ra_pip2_e_f,0,2.0944,0,index central flexion/extension motion,D2 PIP
+9,ra_dip2_e_f,0,1.5708,0,index distal flexion/extension motion,D2 DIP
+10,ra_mcp3_e_f,0,1.5708,0,middle proximal flexion/extension motion,D3 MCP
+11,ra_pip3_e_f,0,2.0944,0,middle central flexion/extension motion,D3 PIP
+12,ra_dip3_e_f,0,1.5708,0,middle distal flexion/extension motion,D3 DIP
+13,ra_mcp4_e_f,0,1.5708,0,ring proximal flexion/extension motion,D4 MCP
+14,ra_pip4_e_f,0,2.0944,0,ring central flexion/extension motion,D4 PIP
+15,ra_dip4_e_f,0,1.5708,0,ring distal flexion/extension motion,D4 DIP
+16,ra_mcp5_e_f,0,1.5708,0,pinky proximal flexion/extension motion,D5 MCP
+17,ra_pip5_e_f,0,2.0944,0,pinky central flexion/extension motion,D5 PIP
+18,ra_dip5_e_f,0,1.5708,0,pinky distal flexion/extension motion,D5 DIP

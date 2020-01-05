@@ -1,0 +1,6 @@
+['', 'a;K1;K2;K4;K5;K3,3', 'K1,1;K4,4;K5,5;K3,3,3;K2,2,2,2,2', 'K3;K1,1,1;K2,2,2,3;K4,4,4,4,4;K5,5,5,5,5', 'K2,3,3;K5,5,5;K2,2,3,3;K4,4,4,4;K1,1,1,1,1', 'K4,4,4;K1,1,1,1;K2,3,3,3;K5,5,5,5;K2,2,2,3,3', 'K2,2,2,2;K2,2,2,2,3;K3,3,3,3,3', 'K2,2;K2,3', 'K2,2,3;K3,3,3,3', 'K2,2,2;K2,2,3,3,3', 'K2,3,3,3,3', '']
+Moment arm around dof ra_wr_e_f has final precision of 0.0104933814329
+Moment arm around dof ra_cmc1_ad_ab has final precision of 0.000457277884183
+Moment arm around dof ra_cmc1_f_e has final precision of 0.00296674990256
+Moment arm around dof ra_mcp1_f_e has final precision of 0.00278733334729
+Moment arm around dof ra_ip1_f_e has final precision of 0.0110305294915

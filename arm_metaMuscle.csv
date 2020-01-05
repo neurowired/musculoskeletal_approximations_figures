@@ -1,0 +1,34 @@
+idMuscle,sMuscle,sMuscleFullName,idDOFList
+1,BIC_LO,Biceps Brachii Long Head,1
+2,BIC_SH,Biceps Brachii Short Head,1
+3,SUP,Supinator,1
+4,PT,Pronator Teres,1
+5,PQ,Pronator quadratus,1
+6,ECR_LO,Extensor Carpi Radialis Longus,1    2
+7,ECR_BR,Extensor Carpi Radialis Brevis,1    2
+8,ECU,Extensor Carpi Ulnaris,1    2
+9,FCR,Flexor Carpi Radialis,1    2
+10,FCU,Flexor Carpi Ulnaris,1    2
+11,PL,Palmaris Longus,1    2
+12,FDS5,Flexor Digitorum superficialis (pinky finger),2    16    17
+13,FDS4,Flexor digitorum superficialis (ring finger),2    13    14
+14,FDS3,Flexor digitorum superficialis (middle finger),2    10    11
+15,FDS2,Flexor digitorum superficialis (index finger),2    7    8
+16,FDP5,Flexor digitorum profundus (pinky finger),2    16    17    18
+17,FDP4,Flexor digitorum profundus (ring finger),2    13    14    15
+18,FDP3,Flexor digitorum profundus (middle finger),2    10    11    12
+19,FDP2,Flexor digitorum profundus (index finger),2    7    8    9
+20,EDM,Extensor Digiti Minimi,2    16    17    18
+21,ED5,Extensor digitorum (pinky finger),2    16    17    18
+22,ED4,Extensor Digitorum (ring finger),2    13    14    15
+23,ED3,Extensor Digitorum (middle finger),2    10    11    12
+24,ED2,Extensor Digitorum (index finger),2    7    8    9
+25,EIND,Extensor Indicis,2    7    8    9
+26,EPL,Extensor Pollicis Longus,1    2    4    3    5    6
+27,EPB,Extensor Pollicis Brevis,2    4    3    5
+28,FPB,Flexor Pollicis Brevis,4    3    5
+29,FPL,Flexor Pollicis Longus,2    4    3    5    6
+30,APL,Abductor Pollicis Longus,1    2    4    3
+31,OP,Opponens Pollicis,4    3
+32,APB,Abductor Pollicis Brevis,4    3    5
+33,ADPT,Adductor Pollicis Transversus,4    3    5

@@ -1,0 +1,39 @@
+['BIC_LO', 'BIC_SH', 'SUP', 'PT', 'PQ', 'ECR_LO', 'ECR_BR', 'ECU', 'FCR', 'FCU', 'PL', 'FDS5', 'FDS4', 'FDS3', 'FDS2', 'FDP5', 'FDP4', 'FDP3', 'FDP2', 'EDM', 'ED5', 'ED4', 'ED3', 'ED2', 'EIND', 'EPL', 'EPB', 'FPB', 'FPL', 'APL', 'OP', 'APB', 'ADPT']
+Differences: BIC_LO: 80.0, BIC_SH: 60.0, SUP: 100.0, PT: 80.0, PQ: 100.0, ECR_LO: 100.0, ECR_BR: 90.9, ECU: 85.0, FCR: 100.0, FCU: 63.2, PL: 100.0, FDS5: 82.4, FDS4: 87.5, FDS3: 82.4, FDS2: 94.1, FDP5: 91.3, FDP4: 82.6, FDP3: 87.0, FDP2: 82.6, EDM: 84.0, ED5: 95.5, ED4: 95.5, ED3: 100.0, ED2: 95.5, EIND: 86.4, EPL: 74.1, EPB: 87.1, FPB: 88.9, FPL: 87.2, APL: 96.8, OP: 76.2, APB: 88.5, ADPT: 69.6
+Mean difference: 87.0880102525, percent of muscles over 80%: 84.8484848485, 28.0 total
+List of complexities:
+EPL      dim 6: 11.038961039
+FPL      dim 5: 14.2857142857
+FDP5     dim 4: 16.6666666667
+FDP4     dim 4: 16.6666666667
+FDP3     dim 4: 16.6666666667
+FDP2     dim 4: 16.6666666667
+ED5      dim 4: 16.6666666667
+ED4      dim 4: 16.6666666667
+ED3      dim 4: 16.6666666667
+ED2      dim 4: 16.6666666667
+EIND     dim 4: 16.6666666667
+EDM      dim 4: 19.8412698413
+EPB      dim 4: 24.6031746032
+APL      dim 4: 24.6031746032
+FDS5     dim 3: 28.5714285714
+FDS4     dim 3: 28.5714285714
+FDS3     dim 3: 28.5714285714
+FDS2     dim 3: 28.5714285714
+FPB      dim 3: 46.4285714286
+APB      dim 3: 46.4285714286
+ECR_LO   dim 2: 52.380952381
+ECR_BR   dim 2: 52.380952381
+FCR      dim 2: 52.380952381
+PL       dim 2: 52.380952381
+SUP      dim 1: 66.6666666667
+BIC_LO   dim 1: 83.3333333333
+BIC_SH   dim 1: 83.3333333333
+PT       dim 1: 83.3333333333
+PQ       dim 1: 83.3333333333
+FCU      dim 2: 85.7142857143
+ECU      dim 2: 95.2380952381
+ADPT     dim 3: 98.2142857143
+OP       dim 2: 100.0
+Complexity linreg: slope -19.4180819181, intercept 101.896840533, r_value -0.830709635835, r_sq_value 0.69007849907, p_value 2.19773948867e-09, std_err 2.33723341758
+Absolute omplexity linreg: slope 6.73076923077, intercept -0.162004662005, r_value 0.736839779641, r_sq_value 0.542932860862, p_value 1.0106246182e-06, std_err 1.10917683083
