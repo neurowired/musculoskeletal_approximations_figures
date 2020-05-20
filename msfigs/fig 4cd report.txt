@@ -1,0 +1,12 @@
+Noise 0.100000
+	Force errors: mean 0.073909%, rms 0.098518%, std 0.065141%, median 0.056396%, Q1 0.025285% Q3 0.104053%
+	Torque errors: mean 0.551759%, rms 0.733342%, std 0.483066%, median 0.430552%, Q1 0.165032% Q3 0.813929%
+Noise 1.000000
+	Force errors: mean 0.739266%, rms 0.985246%, std 0.651303%, median 0.564102%, Q1 0.252601% Q3 1.041930%
+	Torque errors: mean 4.531758%, rms 6.125112%, std 4.120700%, median 3.430603%, Q1 1.313306% Q3 6.606132%
+Noise 10.000000
+	Force errors: mean 7.362813%, rms 9.916446%, std 6.642658%, median 5.525173%, Q1 2.476024% Q3 10.290508%
+	Torque errors: mean 16.848649%, rms 23.911980%, std 16.967788%, median 11.915229%, Q1 5.283710% Q3 22.838147%
+Noise 20.000000
+	Force errors: mean 14.408214%, rms 19.573561%, std 13.248688%, median 10.493238%, Q1 4.720515% Q3 19.982568%
+	Torque errors: mean 22.222536%, rms 30.136437%, std 20.355927%, median 16.712059%, Q1 7.493295% Q3 31.107903%
