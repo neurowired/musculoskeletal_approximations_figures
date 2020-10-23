@@ -1,10 +1,8 @@
 # Figures for approximation of musculoskeletal kinematics
 
-The repository has the data and scripts for generating figures for "Functional description of musculoskeletal transformation using multidimensional polynomials" (2019) by Anton Sobinov, Matthew Boots, Valeriya Gritsenko, Rob Gaunt, Sergiy Yakovenko.
+The repository has the data and scripts for generating figures for "Approximating complex musculoskeletal biomechanics using multidimensional autogenerating polynomials" (2020) by Anton Sobinov, Matthew Boots, Valeriya Gritsenko, Lee E. Fisher, Rob Gaunt, Sergiy Yakovenko.
 
 ## Getting Started
-
-This project's code is available on [GitHub](https://github.com/neurowired/musculoskeletal_approximation).
 
 ### Prerequisites
 
