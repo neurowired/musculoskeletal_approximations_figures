@@ -1,4 +1,4 @@
-# Figures for approximation of musculoskeletal kinematics
+# Approximation of musculoskeletal kinematics 
 
 The repository has the data and scripts for generating figures for "Approximating complex musculoskeletal biomechanics using multidimensional autogenerating polynomials" (2020) by Anton Sobinov, Matthew Boots, Valeriya Gritsenko, Lee E. Fisher, Rob Gaunt, Sergiy Yakovenko.
 
